@@ -7,7 +7,7 @@ pragma solidity ^0.4.23;
  * @dev Math operations with safety checks that throw on error
  * Name : ESTORM TOKEN (ESTORM)
  * Decimals : 18
- * TotalSupply : 2000000000
+ * TotalSupply : 20000000000
  * 
  * 
  * 
